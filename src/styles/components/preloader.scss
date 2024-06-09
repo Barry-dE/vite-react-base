@@ -1,0 +1,6 @@
+.preloader {
+  @extend %cover;
+  background-color: $color-black;
+  z-index: z("preloader");
+  display: none;
+}

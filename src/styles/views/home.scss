@@ -1,0 +1,9 @@
+.home {
+  @extend %cover;
+}
+
+.home__wrapper {
+  h1 {
+    color: $color-white;
+  }
+}
